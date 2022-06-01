@@ -9,3 +9,4 @@ let isChecked = false;
 isClose = false;
 
 console.log(isChecked || isClose);
+console.log("Hello, world");
